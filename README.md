@@ -1,2 +1,2 @@
 # Projekt-analiza-danych-na-temat-sepsy.
-Projekt analizuje dane ze strony https://archive.ics.uci.edu/dataset/827/sepsis+survival+minimal+clinical+records na temat sepsy. W swojej pracy skupiam się przedew szystkim na śmierciach i ich przyczynach(tutaj epizodach). Projekt jest zrobiony w jupiter-notebooku i najlepiej odpalac go przez strone.
+Projekt analizuje dane ze strony https://archive.ics.uci.edu/dataset/827/sepsis+survival+minimal+clinical+records na temat sepsy. W swojej pracy skupiam się przedew szystkim na śmierciach i ich przyczynach(tutaj epizodach). Projekt jest zrobiony w jupiter-notebooku i żeby go zobaczyć wystarczy kliknąć plik main - najlepiej odpalić go jednak przez aplikację lub stronę.
